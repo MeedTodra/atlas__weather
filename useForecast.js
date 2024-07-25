@@ -5,7 +5,7 @@ import getCurrentDayForecast from '../helpers/getCurrentDayForecast';
 import getCurrentDayDetailedForecast from '../helpers/getCurrentDayDetailedForecast';
 import getUpcomingDaysForecast from '../helpers/getUpcomingDaysForecast';
 
-const API_KEY = '65920bfadce4ec4948b1169270349a45';
+const API_KEY = 'mohamedAchermoukKey';
 
 const useForecast = () => {
     const [isError, setError] = useState(false);
